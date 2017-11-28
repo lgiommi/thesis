@@ -1,2 +1,2 @@
 # thesis
-This repository contains the material for my thesis project
+This repository contains the material for my thesis project.
